@@ -1,6 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdyaseenahmed)](https://www.linkedin.com/in/mdyaseenahmed)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdyaseenahmed1@gmail.com)](mailto:mdyaseenahmed1@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=MdYaseenAhmed1)](https://twitter.com/MdYaseenAhmed1)
 [![Website](https://img.shields.io/badge/-Md_Yaseen_Ahmed-0a192f?style=flat-square&logo=google-chrome&logoColor=white&link=https://mdyaseenahmed.netlify.app)](https://mdyaseenahmed.netlify.app)
 
 # ```Hey There.!```
