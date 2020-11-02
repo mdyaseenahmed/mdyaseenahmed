@@ -1,25 +1,36 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdyaseenahmed)](https://www.linkedin.com/in/mdyaseenahmed)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdyaseenahmed1@gmail.com)](mailto:mdyaseenahmed1@gmail.com)
-[![Website](https://img.shields.io/badge/-Md_Yaseen_Ahmed-0a192f?style=flat-square&logo=google-chrome&logoColor=white&link=https://mdyaseenahmed.netlify.app)](https://mdyaseenahmed.github.io)
+# MD YASEEN AHMED
 
-# ```Hey There.!```
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdyaseenahmed)](https://www.linkedin.com/in/mdyaseenahmed)
+[![Mail](https://img.shields.io/badge/-mdyaseenahmed1@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:mdyaseenahmed1@gmail.com)
+[![Website](https://img.shields.io/badge/-Md_Yaseen_Ahmed-0a192f?style=flat-square&logo=google-chrome&logoColor=white&link=https://mdyaseenahmed.github.io)](https://mdyaseenahmed.github.io)
+
+## About Me
 
 I am a **3<sup>rd</sup> Year UG** student from <b>B.M.S College Of Engineering, Bangalore.</b>
 
-# ```Technologies:```
+## STACK I WORK WITH
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
-[![JS Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)]()
-[![ReactJS Badge](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&logoColor=61DBFB)]()
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)]()
-[![Materialize Badge](https://img.shields.io/badge/-Materialize_CSS-ee6e73?style=flat-square&logo=Materialize-css&logoColor=white)]()
-[![PHP Badge](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=474A8A)]()
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)]()
-[![Netlify Badge](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)]()
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 
-[![C Badge](https://img.shields.io/badge/-Programming-1572B6?style=flat-square&logo=c&logoColor=white)]()
-[![Java Badge](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white)]()
-[![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white)]()
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
+
+## INTERESTING STATS
+
+![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true)
+
+
+<a href="https://github.com/anuraghazara/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyaseenahmed&layout=compact" /></a>
