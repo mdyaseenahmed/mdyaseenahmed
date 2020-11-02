@@ -1,4 +1,4 @@
-# MD YASEEN AHMED
+# <span style="font-family:'Itim';">MD YASEEN AHMED
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdyaseenahmed)](https://www.linkedin.com/in/mdyaseenahmed)
 [![Mail](https://img.shields.io/badge/-mdyaseenahmed1@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:mdyaseenahmed1@gmail.com)
@@ -30,7 +30,7 @@ I am a **3<sup>rd</sup> Year UG** student from <b>B.M.S College Of Engineering, 
 
 ## INTERESTING STATS
 
-![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true)
+![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true&theme=radical)
 
 
-<a href="https://github.com/anuraghazara/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyaseenahmed&layout=compact" /></a>
+<a href="https://github.com/anuraghazara/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyaseenahmed&layout=compact&theme=radical" /></a>
