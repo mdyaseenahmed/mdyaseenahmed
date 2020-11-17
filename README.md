@@ -12,7 +12,7 @@ I am a **3<sup>rd</sup> Year UG** student from <b>B.M.S College Of Engineering, 
 
 
 
-## STACK I Work With
+## Stack I Work With
 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
