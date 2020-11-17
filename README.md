@@ -12,7 +12,7 @@ I am a **3<sup>rd</sup> Year UG** student from <b>B.M.S College Of Engineering, 
 
 
 
-## STACK I WORK WITH
+## STACK I Work With
 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -35,9 +35,10 @@ I am a **3<sup>rd</sup> Year UG** student from <b>B.M.S College Of Engineering, 
 
 
 
-## INTERESTING STATS
+## Interesting Stats
 
 ![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true&theme=radical)
 
+## My Portfolio Website (<a href="https://mdyaseenahmed.github.io">click here</a>)
 
-<a href="https://github.com/anuraghazara/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyaseenahmed&layout=compact&theme=radical" /></a>
+<code> <img src="https://github.com/mdyaseenahmed/mdyaseenahmed/blob/master/MyPortfolio.gif"></code>
