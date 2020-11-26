@@ -8,7 +8,7 @@
 ## About Me
 
 
-I am a **3<sup>rd</sup> Year UG** student from <b>B.M.S College Of Engineering, Bangalore.</b>
+I am a **3<sup>rd</sup> Year UG-CSE** student from <b>B.M.S College Of Engineering, Bangalore.</b>
 
 
 
