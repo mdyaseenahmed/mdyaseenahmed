@@ -38,7 +38,3 @@ I am a **3<sup>rd</sup> Year UG-CSE** student from <b>B.M.S College Of Engineeri
 ## Interesting Stats
 
 ![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true&theme=radical)
-
-## My Portfolio Website (<a href="https://mdyaseenahmed.github.io">click here</a>)
-
-<code> <img src="https://github.com/mdyaseenahmed/mdyaseenahmed/blob/master/MyPortfolio.gif"></code>
