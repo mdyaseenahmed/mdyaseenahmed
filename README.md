@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdyaseenahmed)](https://www.linkedin.com/in/mdyaseenahmed)
 [![Mail](https://img.shields.io/badge/-mdyaseenahmed1@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:mdyaseenahmed1@gmail.com)
 [![Website](https://img.shields.io/badge/-Md_Yaseen_Ahmed-0a192f?style=flat-square&logo=google-chrome&logoColor=white&link=https://mdyaseenahmed.github.io)](https://mdyaseenahmed.github.io)
+<p align="left"><img src=https://komarev.com/ghpvc/?username=mdyaseenahmed alt=mdyaseenahmed</p>
 
 ## About Me
 
@@ -37,4 +38,4 @@ I am a **3<sup>rd</sup> Year UG-CSE** student from <b>B.M.S College Of Engineeri
 
 ## Interesting Stats
 
-![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true&theme=radical)
+![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true)
