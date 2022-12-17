@@ -1,4 +1,4 @@
-# MD YASEEN AHMED
+# Hey, There.! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdyaseenahmed)](https://www.linkedin.com/in/mdyaseenahmed)
@@ -6,36 +6,10 @@
 [![Website](https://img.shields.io/badge/-Md_Yaseen_Ahmed-0a192f?style=flat-square&logo=google-chrome&logoColor=white&link=https://mdyaseenahmed.github.io)](https://mdyaseenahmed.github.io)
 <p align="left"><img src=https://komarev.com/ghpvc/?username=mdyaseenahmed alt=mdyaseenahmed</p>
 
-## About Me
-
-
-I am a **3<sup>rd</sup> Year UG-CSE** student from <b>B.M.S College Of Engineering, Bangalore.</b>
 
 
 
-## Stack I Work With
 
+# Interesting Stats
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
-
-
-
-## Interesting Stats
-
-![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true)
+![Md Yaseen Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=mdyaseenahmed&show_icons=true&count_private=1&include_all_commits=1)
